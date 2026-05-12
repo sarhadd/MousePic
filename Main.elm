@@ -1,3 +1,6 @@
+import GraphicSVG exposing (..)
+import GraphicSVG.App exposing (..)
+
 myShapes model =
   [
     mouse
